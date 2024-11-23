@@ -6,6 +6,9 @@
   margin: 0;
   padding: 0;
 }
+html{
+  scroll-behavior: smooth;
+}
 h1 {
   color: var(--renk4);
   text-transform: uppercase;
